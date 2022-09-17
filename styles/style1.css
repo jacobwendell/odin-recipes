@@ -1,5 +1,6 @@
 body {
     background-color: rgba(128, 209, 98, .5);
+    margin: 0;
 }
 
 h1 {
@@ -65,4 +66,16 @@ ul a {
 
 ul a:hover {
     color: black;
+}
+
+/* Footer */
+footer {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    margin-top: 2rem;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+
 }
