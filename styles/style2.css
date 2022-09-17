@@ -22,7 +22,13 @@ div.center {
 ul, ol {
     display: inline-block;
     text-align: left;
+    list-style-position: inside;
 }
+
+ul {
+    padding: 0;
+}
+
 
 footer {
     text-align: center;
