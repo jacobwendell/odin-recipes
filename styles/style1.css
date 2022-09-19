@@ -79,3 +79,7 @@ footer {
     font-size: 2rem;
 
 }
+
+footer a {
+    color: white;
+}

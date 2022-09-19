@@ -1,9 +1,17 @@
+body {
+    margin: 0;
+    background-color: rgba(87, 147, 242, .7);
+    color: white;
+}
+
 h1 {
     text-align: center;
 }
 
 img {
+    width: 60%;
     display: block;
+    height: auto;
     margin: 0 auto;
 }
 
@@ -12,7 +20,7 @@ h2, p {
 }
 
 p {
-    margin-bottom: 3rem;
+    margin-bottom: 1.4rem;
 }
 
 div.center {
@@ -34,4 +42,18 @@ footer {
     text-align: center;
     padding: 2rem;
     font-size: 1.3rem;
+}
+
+section {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.3rem;
+
+}
+
+.credits a {
+    color: white;
 }
